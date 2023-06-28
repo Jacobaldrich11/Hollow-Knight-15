@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: CS61B:xchart-3.5.1.jar:3.5.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../library-sp21/javalib/CS61B/xchart-3.5.1.jar/3.5.1/xchart-3.5.1.jar-3.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../library-sp21/javalib/CS61B/xchart-3.5.1.jar/3.5.1/xchart-3.5.1.jar-3.5.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../library-sp21/javalib/CS61B/xchart-3.5.1.jar/3.5.1/xchart-3.5.1.jar-3.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
